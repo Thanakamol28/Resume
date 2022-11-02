@@ -1,0 +1,27 @@
+h1{
+  margin-top: 0;
+font-family: 'Taviraj', serif;
+}
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Itim', cursive;
+}
+
+.top-container{
+  background-color: #006A7D;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
